@@ -8,5 +8,6 @@
  	     boolean d = a & b;
              boolean e = d ? b : c;
              System.out.println(d + " " + e);
+             
         } 
     }
