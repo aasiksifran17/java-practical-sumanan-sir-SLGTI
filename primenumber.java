@@ -8,7 +8,7 @@ public class primenumber
         System.out.print("Enter a number: ");
         int number = prime.nextInt();
 
-        if (number % 10 == 0)
+        if (number % 100 == 0)
          {
             System.out.println(number + " is a multiple ");
         }
